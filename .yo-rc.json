@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "property-pan",
+    "libraryId": "52cd7abf-f4c6-46f3-b30f-7daba5d5460c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "property-pan",
+    "solutionShortDescription": "property-pan description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
